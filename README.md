@@ -1,7 +1,7 @@
 # Spring-Security
-This repository is about different uses of Spring-Security  
+Bu Spring Security Jwt bazlı Role Authorization kısmı için farklı kullanımlar içermektedir
 
 
 
-Tavsiyem spring-security-role-jwt-master projesini kullanmanızdır ilk etapta
-sonrasında springsecuritybeste mimarinizi taşıyabilirsiniz
+Tavsiyem  ilk etapta spring-security-role-jwt-master projesini kullanmanızdır .
+Sonrasında springsecuritybeste mimarinizi taşıyabilirsiniz
